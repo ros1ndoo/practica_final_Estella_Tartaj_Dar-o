@@ -2,13 +2,13 @@
 
 Este repositorio contiene la resolución de la Práctica Final del Módulo de Estadística para Data Science. 
 
-## ⚠️ Requisitos Previos
+## Requisitos Previos
 
 Para poder ejecutar este proyecto correctamente, es **estrictamente necesario** contar con la siguiente versión de Python:
 
 - **Python 3.12 o superior**
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 Se recomienda el uso de un **entorno virtual** para no crear conflictos con otras librerías del sistema.
 
@@ -24,7 +24,7 @@ Se recomienda el uso de un **entorno virtual** para no crear conflictos con otra
    El proyecto incluye un archivo `requirements.txt` con todas las librerías permitidas y necesarias. Para instalarlas, ejecuta:
    `pip install -r requirements.txt`
 
-## 🚀 Ejecución de los Scripts
+## Ejecución de los Scripts
 Para ejecutar cada parte del análisis, utiliza los siguientes comandos:
 
 - **Ejercicio 1 - Análisis Descriptivo:**
